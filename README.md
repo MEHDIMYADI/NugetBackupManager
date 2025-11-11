@@ -39,8 +39,9 @@ You can now **run it with a single double-click** using the included `.bat` laun
 2. Make sure both files are in the same folder:
 	NugetBackupManager.ps1
 	NugetBackupManager.bat
-	
-3. Run the tool:
+	cmd /c NugetBackupManager.bat
+
+3. Run the tool manually:
 
 ✅ Just double-click NugetBackupManager.bat
 
