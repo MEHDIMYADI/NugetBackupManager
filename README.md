@@ -35,11 +35,11 @@ You can now **run it with a single double-click** using the included `.bat` laun
    ```bash
    git clone https://github.com/MEHDIMYADI/NugetBackupManager.git
    cd NugetBackupManager
+   cmd /c NugetBackupManager.bat
 
 2. Make sure both files are in the same folder:
 	NugetBackupManager.ps1
 	NugetBackupManager.bat
-	cmd /c NugetBackupManager.bat
 
 3. Run the tool manually:
 
