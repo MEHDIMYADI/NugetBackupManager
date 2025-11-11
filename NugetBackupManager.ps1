@@ -13,8 +13,8 @@ function Show-Menu {
     Write-Host "1. 📦 Backup NuGet Packages (ZIP)"
     Write-Host "2. 🔁 Restore from Backup (Select ZIP)"
     Write-Host "3. 🛠️ Set Custom NuGet Packages Path"
-    Write-Host "4. 🛠️ Reset to Default NuGet Packages Path"	
-    Write-Host "0. 🚪 Exit"
+    Write-Host "4. 🔄 Reset to Default NuGet Packages Path"	
+    Write-Host "0. 🔚 Exit"
     Write-Host "===================================="
 }
 
